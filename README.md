@@ -38,7 +38,7 @@ This took me to Power Query Editor, where i transformed my data.
 This is the point where the dataset was cleaned. 
 ![8](https://user-images.githubusercontent.com/102609359/212888825-4ff817cb-c73b-4835-9e1b-b7ef2fa6e703.png)
 
-The follwing steps were taken to transform the dataset.
+ # The follwing steps were taken to transform the dataset.
 1. All firt rows were upgraded to headers, by clicking on the table icon on the left hand side to select 'use fist row as hearders'
 ![8b](https://user-images.githubusercontent.com/102609359/212889859-a997c2ca-0734-44c2-9985-92ed1faf2aec.png)
 
